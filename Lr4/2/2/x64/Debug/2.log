@@ -1,0 +1,4 @@
+﻿  2.cpp
+C:\Users\valer\Documents\2s,Kod\Lr4\2\2\2.cpp(36,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\valer\Documents\2s,Kod\Lr4\2\2\2.cpp(41,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  2.vcxproj -> C:\Users\valer\Documents\2s,Kod\Lr4\2\x64\Debug\2.exe

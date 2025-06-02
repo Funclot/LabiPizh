@@ -1,0 +1,3 @@
+﻿  3.cpp
+C:\Users\valer\Documents\2s,Kod\Lr4\3\3\3.cpp(31,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  3.vcxproj -> C:\Users\valer\Documents\2s,Kod\Lr4\3\x64\Debug\3.exe
