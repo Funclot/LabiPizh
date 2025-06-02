@@ -1,0 +1,4 @@
+﻿  7.cpp
+C:\Users\valer\Documents\2s,Kod\Lr1\7\7\7.cpp(65,15): warning C4101: k: неиспользованная локальная переменная
+C:\Users\valer\Documents\2s,Kod\Lr1\7\7\7.cpp(65,18): warning C4101: l: неиспользованная локальная переменная
+  7.vcxproj -> C:\Users\valer\Documents\2s,Kod\Lr1\7\x64\Debug\7.exe
