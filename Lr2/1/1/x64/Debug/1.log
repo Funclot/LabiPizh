@@ -1,0 +1,10 @@
+﻿  1.cpp
+C:\Users\valer\Documents\2s,Kod\Lr2\1\1\1.cpp(24,29): error C2662: double Elstat::calculateCurrent(void): невозможно преобразовать указатель "this" из "const Elstat" в "Elstat &"
+      C:\Users\valer\Documents\2s,Kod\Lr2\1\1\1.cpp(24,29):
+      В результате преобразования теряются квалификаторы
+      C:\Users\valer\Documents\2s,Kod\Lr2\1\1\1.cpp(29,12):
+       см. объявление "Elstat::calculateCurrent"
+      C:\Users\valer\Documents\2s,Kod\Lr2\1\1\1.cpp(24,29):
+      при попытке сопоставить список аргументов "()"
+  
+C:\Users\valer\Documents\2s,Kod\Lr2\1\1\1.cpp(24,26): error C2088: встроенный оператор "<<" не может быть применен к операнду типа "std::basic_ostream<char,std::char_traits<char>>"
